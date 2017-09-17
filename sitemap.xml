@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oakypokey.github.io/categories/</loc>
+    <loc>https://oakypokey.github.io/MAWeb/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oakypokey.github.io/tags/</loc>
+    <loc>https://oakypokey.github.io/MAWeb/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oakypokey.github.io/</loc>
+    <loc>https://oakypokey.github.io/MAWeb/</loc>
     <priority>0</priority>
   </url>
   
